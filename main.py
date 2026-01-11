@@ -4,8 +4,8 @@ from random import choice
 from os import path
 
 BACKGROUND_COLOR = "#B1DDC6"
-FOLDER_DATA = "FlashCard/data/"
-FOLDER_IMAGES = "FlashCard/images/"
+FOLDER_DATA = "./data/"
+FOLDER_IMAGES = "./images/"
 PREFIX = "training_"
 words = []
 word_combo = []
